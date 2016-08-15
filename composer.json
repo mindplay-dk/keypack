@@ -1,0 +1,22 @@
+{
+    "name": "mindplay/keypack",
+    "description": "Pack/unpack integer and GUID keys to shorter strings",
+    "authors": [
+        {
+            "name": "Rasmus Schultz",
+            "email": "rasmus@mindplay.dk"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "mindplay/nbase": "^1"
+    },
+    "require-dev": {
+        "mindplay/testies": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "mindplay\\keypack\\": "src/"
+        }
+    }
+}

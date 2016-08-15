@@ -1,6 +1,7 @@
 {
     "name": "mindplay/keypack",
     "description": "Pack/unpack integer and GUID keys to shorter strings",
+    "license": "MIT",
     "authors": [
         {
             "name": "Rasmus Schultz",
